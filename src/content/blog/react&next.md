@@ -2,7 +2,7 @@
 date: 2025-04-03T19:22:00
 title: react&next
 keywords: ["front"]
-featured: true
+featured: false
 summary: "react和next学习总结"
 ---
 # react基础

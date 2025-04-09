@@ -2,7 +2,7 @@
 date: 2025-04-01T20:22:00
 title: prompt
 keywords: ["LLM"]
-featured: true
+featured: false
 summary: "提示词工程总结"
 ---
 
