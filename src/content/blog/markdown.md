@@ -76,7 +76,7 @@ __This will also be bold__
 ```
 
 **实例**
-![微信公众号](https://storage.guangzhengli.com/images/wechat-official-account.png)
+![mysql数据类型](https://gitee.com/jialeyu/note/raw/master/Mysql%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B.png)
 
 # 5. 超链接
 
@@ -116,13 +116,13 @@ __This will also be bold__
 
 **语法**
 
-```md
+````md
 ```js
 for (var i=0; i<100; i++) {
     console.log("hello world" + i);
 }
-​```
 ```
+````
 
 **实例**
 
@@ -134,7 +134,7 @@ for (var i=0; i<100; i++) {
 
 也可以通过缩进来显示代码, 下面是示例:  
 
-    console.loe("Hello_World");
+    console.log("Hello_World");
 
 # 9. 表格
 
