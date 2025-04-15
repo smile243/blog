@@ -2,7 +2,7 @@
 title: Markdown 基本用法
 date: 2025-04-05T20:10:00+08:00
 updated: 2025-04-05T20:10:00+08:00
-keywords: ["hello", "world"]
+keywords: ["note"]
 summary: "这篇文章包含markdown语法基本的内容。"
 ---
 
@@ -117,7 +117,7 @@ __This will also be bold__
 **语法**
 
 ```md
-​```js
+```js
 for (var i=0; i<100; i++) {
     console.log("hello world" + i);
 }
@@ -150,3 +150,4 @@ for (var i=0; i<100; i++) {
 
 - https://guides.github.com/features/mastering-markdown/  
 - https://help.github.com/articles/basic-writing-and-formatting-syntax/
+
