@@ -87,7 +87,7 @@ __This will also be bold__
 
 **实例**
 
-[微信公众号链接](https://storage.guangzhengli.com/images/wechat-official-account.png)
+[本人Github](https://github.com/smile243)
 
 # 6. 引用
 
