@@ -88,7 +88,7 @@ __This will also be bold__
 
 **实例**
 
-[本人Github](https://github.com/smile243)
+[本人Github](https://github.com/yuajiale)
 
 # 6. 引用
 

@@ -30,7 +30,7 @@ export const config = {
     bio: "想做一个乡村别墅码农",
   },
   social: {
-    github: "https://github.com/smile243",
+    github: "https://github.com/yujiale",
     x: "",
     xiaohongshu: "",
     wechat: "",
