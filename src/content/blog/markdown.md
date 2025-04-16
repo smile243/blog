@@ -76,11 +76,12 @@ __This will also be bold__
 ```
 
 **实例**
-![mysql数据类型](https://gitee.com/jialeyu/note/raw/master/Mysql%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B.png)
+![mysql数据类型](https://pub-ec2a1aae40524104af7d715a57a44aeb.r2.dev/Mysql%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B.png)
 
 # 5. 超链接
 
 **语法**
+
 ```
 [link-name](link-url)
 ```
