@@ -10,7 +10,7 @@ import { usePathname } from "next/navigation";
 import { cn } from "@/lib/utils";
 import { motion } from "framer-motion";
 import { SquareTerminal } from "lucide-react";
-
+import { config } from "@/lib/config";
 export function Header() {
   const pathname = usePathname();
   const isBlogPage = pathname.includes("/blog/");
@@ -38,15 +38,15 @@ export function Header() {
 
         {/* Right side buttons */}
         <div className="flex items-center space-x-2 md:space-x-8 mr-4">
-          <Link href="https://github.com/smile243" title="Github">
+          <Link href={config.social.github} title="Github">
             <GithubIcon />
           </Link>
-          <Link href="" title="X">
+          {/* <Link href="" title="X">
             <XIcon />
           </Link>
           <Link href="" title="Xiaohongshu">
             <XiaohongshuIcon />
-          </Link>
+          </Link> */}
         </div>
       </motion.div>
     </header >

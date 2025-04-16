@@ -16,7 +16,7 @@ export default function Home() {
         <p className="text-md text-gray-600">{config.author.bio}</p>
         
         {/* 社交链接 */}
-        <div className="flex space-x-2 text-gray-600">
+        {/* <div className="flex space-x-2 text-gray-600">
           <Link href={config.social.buyMeACoffee} className="underline underline-offset-4">赞赏</Link>
           <span>·</span>
           <Link href={config.social.x} className="underline underline-offset-4">X</Link>
@@ -24,7 +24,7 @@ export default function Home() {
           <Link href={config.social.xiaohongshu} className="underline underline-offset-4">小红书</Link>
           <span>·</span>
           <Link href={config.social.wechat} className="underline underline-offset-4">微信公众号</Link>
-        </div>
+        </div> */}
       </div>
 
       <div className="space-y-4">

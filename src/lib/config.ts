@@ -27,7 +27,7 @@ export const config = {
   author: {
     name: "Jiale Yu",
     email: "827359508@qq.com",
-    bio: "smile的博客",
+    bio: "想做一个乡村别墅码农",
   },
   social: {
     github: "https://github.com/smile243",
