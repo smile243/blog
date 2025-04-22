@@ -37,9 +37,9 @@ export const config = {
     buyMeACoffee: "",
   },
   giscus: {
-    repo: "",
-    repoId: "、",
-    categoryId: "",
+    repo: "smile243/blog",
+    repoId: "R_kgDOOWD12g",
+    categoryId: "DIC_kwDOOWD12s4CpV1J",
   },
   navigation: {
     main: [
