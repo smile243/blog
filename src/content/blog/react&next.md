@@ -8,7 +8,6 @@ summary: "react和next学习总结"
 # react基础
 ## component
 1. jsx
-## 
 # next基础
 1. routing 自动路由
 2. rendering

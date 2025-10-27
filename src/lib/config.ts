@@ -54,7 +54,7 @@ export const config = {
     ],
   },
   seo: {
-    metadataBase: new URL("https://xxx.com"),
+    metadataBase: new URL("https://smilecc.cc"),
     alternates: {
       canonical: './',
     },
